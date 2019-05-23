@@ -1,0 +1,21 @@
+export const Collections = {
+  STRIPE_BUSINESS: 'stripe-businesses',
+  PLACES: 'places',
+  TEAMS: 'teams',
+  USERS: 'users',
+  NOTIFICATIONS: 'notifications',
+  DELETE_QUEUE: 'delete-queue',
+  FEEDBACK: 'feedback',
+  INVITES: 'invites',
+  PRIVILEGES: 'privileges',
+  SNOWBALLS: 'snowballs',
+  STRIPE_CUSTOMERS: 'stripe-customers',
+  TEAM_MEMBERS: 'team-members',
+  VOUCHERS: 'vouchers',
+  FRIENDS: 'friends',
+  DEVICE_TOKENS: 'device-tokens',
+  TEAM_HANDLING_QUEUE: 'team-handling-queue',
+  SOURCES: 'sources',
+  PLACE_STRIPE: 'stripe-business',
+  TEAM_COMPLETE_QUEUE: 'team-complete-queue'
+};
